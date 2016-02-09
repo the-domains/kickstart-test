@@ -1,0 +1,28 @@
+name: Kickstart Test
+favicon: null
+layout_spectrum: 0.8147860704921186
+typography_spectrum: 0.630477708298713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6711156016681343
+  lightness: 0.40647867997176945
+  saturation: 0.4969032946974039
+  rhythmicContrast: 0.01209656335413456
+purpose: []
